@@ -10,3 +10,13 @@
 .color-bg-light{
     background-color: #F4FAFD;
 }
+.icon-warning{
+    color:goldenrod;
+}
+.icon-light{
+    color:white
+}
+.black-bg-dark{
+    background-color: black;
+    height: 500px;
+}
